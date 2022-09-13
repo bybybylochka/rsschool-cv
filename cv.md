@@ -1,7 +1,9 @@
 # Ponomareva Elizaveta
-![My_photo](https://sun9-33.userapi.com/impg/wplxnGSCZRcOW-a1cYLW2W_z0hy66BU1IzD3yw/I_XSJEKofiY.jpg?size=1080x1440&quality=95&sign=346ee24dba324a63af91046081aa7e3d&type=album =200x200)
+<img src="https://sun9-33.userapi.com/impg/wplxnGSCZRcOW-a1cYLW2W_z0hy66BU1IzD3yw/I_XSJEKofiY.jpg?size=1080x1440&quality=95&sign=346ee24dba324a63af91046081aa7e3d&type=album" alt="alt text" title="image Title" height="200"/>
+
 ### My contacts
 *Email:* yelizaveta.ponomareva.2003@mail.ru
+
 *Discord:* Ponomareva Liza(bybybylochka)
 
 ### About me
@@ -24,7 +26,7 @@ int index (int *array, int size, int n)
 ```
 
 ### Work experience
-*CV:* 
+*CV:* https://github.com/bybybylochka/rsschool-cv/blob/gh-pages/cv.md
 
 ### Education
 Belarusian State University of Informatics and Radioelectronics (2nd year)
