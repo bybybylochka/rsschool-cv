@@ -1,5 +1,5 @@
 # Ponomareva Elizaveta
-![My_photo](https://sun9-33.userapi.com/impg/wplxnGSCZRcOW-a1cYLW2W_z0hy66BU1IzD3yw/I_XSJEKofiY.jpg?size=1080x1440&quality=95&sign=346ee24dba324a63af91046081aa7e3d&type=album)
+![My_photo](https://sun9-33.userapi.com/impg/wplxnGSCZRcOW-a1cYLW2W_z0hy66BU1IzD3yw/I_XSJEKofiY.jpg?size=1080x1440&quality=95&sign=346ee24dba324a63af91046081aa7e3d&type=album =200x200)
 ### My contacts
 *Email:* yelizaveta.ponomareva.2003@mail.ru
 *Discord:* Ponomareva Liza(bybybylochka)
